@@ -5,21 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4d73bf72-8dd6-410e-bc88-05895c9f0714" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DataStructures/Collections/MyCollection.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DataStructures/Iterables/MyIterable.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DataStructures/Iterables/MyIterator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DataStructures/Lists/MyList.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DataStructures/Product.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DataStructures/Program.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Collections/MyCollection.java" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/MyCollection.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructures.iml" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructures.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Iterables/MyIterable.java" beforeDir="false" afterPath="$PROJECT_DIR$/Iterables/MyIterable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Iterables/MyIterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/Iterables/MyIterator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lists/MyList.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lists/MyList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/Product.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/Program.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,19 +34,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/KWalker/IdeaProjects/DataStructuresClone/java-course-sample",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/KWalker/IdeaProjects/DataStructuresClone/java-course-sample&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\KWalker\IdeaProjects\DataStructures" />
@@ -87,6 +73,7 @@
       <workItem from="1709155139118" duration="8960000" />
       <workItem from="1709214530627" duration="1664000" />
       <workItem from="1709218126841" duration="45000" />
+      <workItem from="1709220768562" duration="14000" />
     </task>
     <servers />
   </component>
