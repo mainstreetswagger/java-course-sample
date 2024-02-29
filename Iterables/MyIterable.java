@@ -1,8 +1,9 @@
-package Iterable;
+package Iterables;
 
 import java.util.Iterator;
 
 public class MyIterable<E> implements Iterable<E>{
+    public MyIterable() { }
     private E[] elements;
     private int size;
     @Override
